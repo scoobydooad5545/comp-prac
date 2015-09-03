@@ -1,0 +1,43 @@
+.container {
+	background-color:#201e59;
+}
+.nav {
+	background-color:#201e59;
+	font-size:16px;
+}
+.nav-pills>li.active>a {
+	background-color:#201e59;
+	color:#f7ee06;
+}
+.nav-pills>li.active>a:hover {
+	color:#f7ee06;
+}
+.nav-pills>li>a {
+	color:white;
+}
+.nav-pills>li>a:hover {
+	background-color:#337ab7;
+}
+.active {
+	
+}
+.btn.btn-primary {
+	background-color:#f7ee06;
+	color:#201e59;
+	border:#000 1px solid;
+}
+.btn.btn-primary:hover {
+	background-color:#ded720;
+}
+
+
+
+
+
+
+.yellow {color:#f7ee06;}
+.blue {color:#201e59;}
+
+
+
+
